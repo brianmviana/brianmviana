@@ -55,7 +55,7 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/brianmviana/brianmviana/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/brianmviana/brianmviana/output/snake.svg" alt="Snake animation" />
 
 ###
 
