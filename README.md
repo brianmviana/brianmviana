@@ -12,7 +12,7 @@ Programmer since 2014, passionate about technology and **enthusiast IoT**, alway
 
 - ✨ I’m currently working on [Zup](https://www.zup.com.br) like **backend developer**.
 - 🎓 Bachelor of **Software Engineering** at [Federal University of Ceará - Campus Quixadá](https://www.quixada.ufc.br).
-- 📚 I’m currently learning [Kotlin](https://kotlinlang.org), [AWS](https://aws.amazon.com/pt/), [Docker](https://www.docker.com),[Maven](https://maven.apache.org/index.html), [NodeJS](https://nodejs.org/en/), [JavaScript](https://www.javascript.com) and [TypeScript](https://www.typescriptlang.org).
+- 📚 I’m currently learning [Kotlin](https://kotlinlang.org), [AWS](https://aws.amazon.com/pt/), [Docker](https://www.docker.com), [Maven](https://maven.apache.org/index.html), [NodeJS](https://nodejs.org/en/), [JavaScript](https://www.javascript.com) and [TypeScript](https://www.typescriptlang.org).
 - 🎯 Goals: 
   - I want to become a **backend development** specialist and **software architect** to build scalable and robust applications.
 - 📭 How to reach me: 
