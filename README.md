@@ -54,9 +54,11 @@
 </div>
 
 ###
-
+<div align="center">
+  
   ![Snake animation](https://raw.githubusercontent.com/brianmviana/brianmviana/output/snake.svg)
 
+</div>
 ###
 
 <!--
