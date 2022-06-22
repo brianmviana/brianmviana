@@ -59,7 +59,6 @@
   ![Snake animation](https://raw.githubusercontent.com/brianmviana/brianmviana/output/snake.svg)
 
 </div>
-###
 
 <!--
 **brianmviana/brianmviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
