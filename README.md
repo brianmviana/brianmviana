@@ -1,29 +1,29 @@
-<h1 align="center">Hello world 👋, I'm Brian M. Viana</h1>
+# Hello world 👋, I'm Brian M. Viana
 
 ###
 
-<p align="center">I'm a software engineer focused on backend development and an IoT enthusiast</p>
+I'm a **software engineer** focused on **backend development** and an **IoT** enthusiast
 
 ###
 
-<h2 align="left">About me</h2>
+## About me
+
+Programmer since 2014, passionate about technology and **enthusiast IoT**, always looking for new challenges and with a thirst for learning. Currently focused on **backend development**.
+
+- ✨ I’m currently working on [Zup](https://www.zup.com.br) like **backend developer**.
+- 🎓 Bachelor of **Software Engineering** at [Federal University of Ceará - Campus Quixadá](https://www.quixada.ufc.br).
+- 📚 I’m currently learning [Kotlin](https://kotlinlang.org), [AWS](https://aws.amazon.com/pt/), [Docker](https://www.docker.com),[Maven](https://maven.apache.org/index.html), [NodeJS](https://nodejs.org/en/), [JavaScript](https://www.javascript.com) and [TypeScript](https://www.typescriptlang.org).
+- 🎯 Goals: 
+  - I want to become a **backend development** specialist and **software architect** to build scalable and robust applications.
+- 📭 How to reach me: 
+
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brianmviana/)](https://www.linkedin.com/in/brianmviana/) - 
+   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brianmviana@gmail.com)](mailto:brianmviana@gmail.com) - 
+   [![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brianmviana)](https://github.com/brianmviana)
 
 ###
 
-<p align="left">
-  ✨ I’m currently working on @ZupIT<br>
-  🎓 Bachelor of Software Engineering at Federal University of Ceará - Campus Quixadá<br>
-  📚 I’m currently learning Kotlin, AWS, Docker, NodeJS, JavaScript and TypeScript<br>
-  📭 How to reach me: 
-  
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brianmviana/)](https://www.linkedin.com/in/brianmviana/)
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brianmviana@gmail.com)](mailto:brianmviana@gmail.com)
-  [![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brianmviana)](https://github.com/brianmviana)
-</p>
-
-###
-
-<h2 align="left">I code with</h2>
+## I code with
 
 ###
 
@@ -44,7 +44,7 @@
 
 ###
 
-<h2 align="left">Stats:</h2>
+## Stats
 
 ###
 
@@ -59,18 +59,3 @@
   ![Snake animation](https://raw.githubusercontent.com/brianmviana/brianmviana/output/snake.svg)
 
 </div>
-
-<!--
-**brianmviana/brianmviana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
