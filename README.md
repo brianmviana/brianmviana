@@ -15,12 +15,9 @@
   🎓 Bachelor of Software Engineering at Federal University of Ceará - Campus Quixadá<br>
   📚 I’m currently learning Kotlin, AWS, Docker, NodeJS, JavaScript and TypeScript<br>
   📭 How to reach me: 
-  
-[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brianmviana)](https://github.com/brianmviana)
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brianmviana/)](https://www.linkedin.com/in/brianmviana/)
-  
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brianmviana@gmail.com)](mailto:brianmviana@gmail.com)</p>
+  [![Github Badge](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brianmviana)](https://github.com/brianmviana)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brianmviana/)](https://www.linkedin.com/in/brianmviana/)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brianmviana@gmail.com)](mailto:brianmviana@gmail.com)</p>
 
 ###
 
