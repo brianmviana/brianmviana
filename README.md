@@ -56,6 +56,8 @@ Programmer since 2014, passionate about technology and **enthusiast IoT**, alway
 ###
 <div align="center">
   
-  ![Snake animation](https://raw.githubusercontent.com/brianmviana/brianmviana/output/snake.svg)
-
+  ![GitHub Snake Light](https://raw.githubusercontent.com/brianmviana/brianmviana/output/snake.svg#gh-light-mode-only)
+  
+  ![GitHub Snake dark](https://raw.githubusercontent.com/brianmviana/brianmviana/output/snake-dark.svg#gh-dark-mode-only)
+  
 </div>
