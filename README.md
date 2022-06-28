@@ -1,4 +1,4 @@
-# Hello world 👋, I'm Brian M. Viana
+# Hi 👋, I'm Brian M. Viana
 
 ###
 
