@@ -50,13 +50,11 @@ Programmer since 2014, passionate about technology and **enthusiast IoT**, alway
 
 <div align="center">
 
-  ![Brian M. Viana's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=brianmviana&show_icons=true&include_all_commits=true&locale=pt-br&count_private=true&theme=default#gh-light-mode-only)
+[![Brian M. Viana's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brianmviana&show_icons=true&include_all_commits=true&locale=pt-br&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Brian M. Viana's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=brianmviana&show_icons=true&include_all_commits=true&locale=pt-br&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-  ![Brian M. Viana's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=brianmviana&show_icons=true&include_all_commits=true&locale=pt-br&count_private=true&theme=dark#gh-dark-mode-only)
-
-  ![Brian M. Viana's GitHub languages-Light](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&username=brianmviana&theme=default#gh-light-mode-only)
-  
-  ![Brian M. Viana's GitHub languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&username=brianmviana&theme=dark#gh-dark-mode-only)
+  [![Brian M. Viana's GitHub languages-Dark](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&username=brianmviana&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Brian M. Viana's GitHub languages-Light](https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=false&username=brianmviana&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 </div>
 
